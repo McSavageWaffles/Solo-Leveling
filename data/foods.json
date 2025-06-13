@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Sidi Ali",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 4.2,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Perly",
+    "kcal": 97,
+    "protein": 8,
+    "carbs": 9.4,
+    "fat": 3,
+    "fiber": null,
+    "salt": null
+  },
+  {
+    "name": "Sidi Ali",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "fiber": null,
+    "salt": 0.065
+  },
+  {
+    "name": "Eau min\u00e9rale naturelle",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "fiber": null,
+    "salt": 0.065
+  },
+  {
+    "name": "\u0627\u0643\u0648\u0627\u0641\u064a\u0646\u0627",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.000508
+  },
+  {
+    "name": "Lait",
+    "kcal": 45,
+    "protein": 3.1,
+    "carbs": 4.9,
+    "fat": 1.5,
+    "fiber": null,
+    "salt": 0.225
+  },
+  {
+    "name": "CRISTALINE Eau De Source 1.5L",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.0525
+  },
+  {
+    "name": "Fromage blanc nature",
+    "kcal": 80.6,
+    "protein": 7.3,
+    "carbs": 6.1,
+    "fat": 12,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Lait entier UHT",
+    "kcal": 58,
+    "protein": 3,
+    "carbs": 4.8,
+    "fat": 3,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Jben",
+    "kcal": 235,
+    "protein": 8,
+    "carbs": 3.5,
+    "fat": 21,
+    "fiber": 0,
+    "salt": 0.46
+  },
+  {
+    "name": "Ain Sa\u00efss",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Eau min\u00e9ral naturelle",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "6111035000027",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0.0065
+  },
+  {
+    "name": "Marmite Yeast Extract",
+    "kcal": 260,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 0.5,
+    "fiber": null,
+    "salt": 10.8
+  },
+  {
+    "name": "Lait Frais",
+    "kcal": 45,
+    "protein": 3,
+    "carbs": 4.8,
+    "fat": 1.5,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Margarine de table",
+    "kcal": 675,
+    "protein": 0.1,
+    "carbs": 0.2,
+    "fat": 75,
+    "fiber": 0,
+    "salt": 0.5
+  },
+  {
+    "name": "\u0627\u0643\u0648\u0627\u0641\u064a\u0646\u0627",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Prince Go\u00fbt Chocolat",
+    "kcal": 467,
+    "protein": 6.3,
+    "carbs": 69,
+    "fat": 17,
+    "fiber": 4,
+    "salt": 0.49
+  },
+  {
+    "name": "Excellence Noir Prodigieux 90% Cacao",
+    "kcal": 592,
+    "protein": 10,
+    "carbs": 14,
+    "fat": 55,
+    "fiber": null,
+    "salt": 0.03
+  },
+  {
+    "name": "Oulmes natural carbonated water",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "fiber": null,
+    "salt": 0.0784
+  },
+  {
+    "name": "Nutella",
+    "kcal": 539,
+    "protein": 6.3,
+    "carbs": 57.5,
+    "fat": 30.9,
+    "fiber": null,
+    "salt": 0.107
+  },
+  {
+    "name": "Orange juice",
+    "kcal": 39,
+    "protein": 0,
+    "carbs": 9.3,
+    "fat": 0,
+    "fiber": 5,
+    "salt": 0.126
+  },
+  {
+    "name": "Tonik",
+    "kcal": 504,
+    "protein": 4.35,
+    "carbs": 71.7,
+    "fat": 22.2,
+    "fiber": 0.435,
+    "salt": 0.217
+  },
+  {
+    "name": "levure p\u00e2tisserie",
+    "kcal": 183,
+    "protein": 0,
+    "carbs": 43.4,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Ain Saiss Eau Minerale Naturelle",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "S\u00e9same",
+    "kcal": 467,
+    "protein": 10,
+    "carbs": 64,
+    "fat": 18,
+    "fiber": 4.6,
+    "salt": 0.38
+  },
+  {
+    "name": "Confiture de fraise",
+    "kcal": 250,
+    "protein": 0.5,
+    "carbs": 61.33,
+    "fat": 0.3,
+    "fiber": null,
+    "salt": null
+  },
+  {
+    "name": "Ain Atlas",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Yaourt nature",
+    "kcal": 78.5,
+    "protein": 4.2,
+    "carbs": 15.7,
+    "fat": 3.3,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Ain Atlas",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0.12
+  },
+  {
+    "name": "Mayonnaise recette originale",
+    "kcal": 592,
+    "protein": 1.12,
+    "carbs": 0.22,
+    "fat": 65.21,
+    "fiber": null,
+    "salt": 1.75
+  },
+  {
+    "name": "Sourdough White Ciabattin Bread",
+    "kcal": 230,
+    "protein": 10.1,
+    "carbs": 44.1,
+    "fat": 0.8,
+    "fiber": 2.9,
+    "salt": 0.905
+  },
+  {
+    "name": "Coca Cola",
+    "kcal": 42,
+    "protein": 0,
+    "carbs": 10.6,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 85% \u043a\u0430\u043a\u0430\u043e\u0432\u0430 \u043c\u0430\u0441\u0430",
+    "kcal": 579,
+    "protein": 10.8,
+    "carbs": 21.4,
+    "fat": 46.8,
+    "fiber": 14.5,
+    "salt": 0.03
+  },
+  {
+    "name": "CRISTALINE Eau De Source 0.5L",
+    "kcal": 0,
+    "protein": null,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0.00476
+  },
+  {
+    "name": "Nutella",
+    "kcal": 539,
+    "protein": 6.3,
+    "carbs": 57.5,
+    "fat": 30.9,
+    "fiber": null,
+    "salt": 0.107
+  },
+  {
+    "name": "White Sourdough Bread",
+    "kcal": 237,
+    "protein": 9.73,
+    "carbs": 46,
+    "fat": 0.698,
+    "fiber": 3,
+    "salt": 0.787
+  },
+  {
+    "name": "Sourdough Grains & Seeds",
+    "kcal": 237,
+    "protein": 10.7,
+    "carbs": 40.2,
+    "fat": 2.7,
+    "fiber": 4.7,
+    "salt": 0.825
+  },
+  {
+    "name": "Cheddar",
+    "kcal": 270,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 21,
+    "fiber": null,
+    "salt": 1.5
+  },
+  {
+    "name": "Almonds",
+    "kcal": 621,
+    "protein": 24.5,
+    "carbs": 4.8,
+    "fat": 53.3,
+    "fiber": 12.1,
+    "salt": 0.01
+  },
+  {
+    "name": "Star Branded Iodized Salt",
+    "kcal": null,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 99
+  },
+  {
+    "name": "Ketchup",
+    "kcal": 108,
+    "protein": 1.12,
+    "carbs": 25.7,
+    "fat": 0.08,
+    "fiber": 0,
+    "salt": 0.00555
+  },
+  {
+    "name": "Cosumar Sucre En Lingot Pour Le Th\u00e9 1 kg",
+    "kcal": 400,
+    "protein": 0,
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Cashew Nuts",
+    "kcal": 600,
+    "protein": 20.5,
+    "carbs": 19.8,
+    "fat": 47.6,
+    "fiber": 5.2,
+    "salt": 0.02
+  },
+  {
+    "name": "Henry\u2019s",
+    "kcal": 440,
+    "protein": 7.6471,
+    "carbs": 76.4706,
+    "fat": 10.8235,
+    "fiber": 2.3529,
+    "salt": 0.882353
+  },
+  {
+    "name": "Assil",
+    "kcal": 95.5,
+    "protein": 3.4,
+    "carbs": 14,
+    "fat": 2.7,
+    "fiber": 2,
+    "salt": 0
+  },
+  {
+    "name": "Salim",
+    "kcal": 58,
+    "protein": 3,
+    "carbs": 4.8,
+    "fat": 3,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "BTE 33CL SLIM COCA COLA",
+    "kcal": 42,
+    "protein": 0,
+    "carbs": 10.6,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Cremy",
+    "kcal": 109,
+    "protein": 3.6,
+    "carbs": 16.9,
+    "fat": 3,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Ciel",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.025
+  },
+  {
+    "name": "Ciel 33cl",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0.13
+  },
+  {
+    "name": "ain saiss 50cl",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Cream cheese",
+    "kcal": 257,
+    "protein": 10,
+    "carbs": 3.1,
+    "fat": 18,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Spreadable Slightly Salted",
+    "kcal": 680,
+    "protein": 0.5,
+    "carbs": 0.6,
+    "fat": 75,
+    "fiber": null,
+    "salt": 0.875
+  },
+  {
+    "name": "Oulmes Eau Gazeuse",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.31
+  },
+  {
+    "name": "Organic 70% Dark Chocolate Bar",
+    "kcal": 580,
+    "protein": 9.1,
+    "carbs": 36,
+    "fat": 42,
+    "fiber": 10,
+    "salt": 0.01
+  },
+  {
+    "name": "jibal jben",
+    "kcal": 138,
+    "protein": 2.5,
+    "carbs": 6.14,
+    "fat": 11.5,
+    "fiber": null,
+    "salt": 0.8
+  },
+  {
+    "name": "KING COOKIES",
+    "kcal": 483,
+    "protein": 5.2,
+    "carbs": 61.5,
+    "fat": 24,
+    "fiber": null,
+    "salt": 0.27
+  },
+  {
+    "name": "Nescaf\u00e9 Classic",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "fiber": null,
+    "salt": null
+  },
+  {
+    "name": "Jamila",
+    "kcal": 72,
+    "protein": 1.9,
+    "carbs": 12.4,
+    "fat": 1.7,
+    "fiber": 0,
+    "salt": 0
+  },
+  {
+    "name": "Eau",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 3e-06
+  },
+  {
+    "name": "Aquafina 50cl",
+    "kcal": 1,
+    "protein": 0.1,
+    "carbs": 0.1,
+    "fat": 0.1,
+    "fiber": 0,
+    "salt": 0.1
+  },
+  {
+    "name": "sauce tomate cuisin\u00e9e",
+    "kcal": 68,
+    "protein": 1.6,
+    "carbs": 7.6,
+    "fat": 0.4,
+    "fiber": 2,
+    "salt": 1
+  },
+  {
+    "name": "Coca-Cola Zero Sugar - 330 ml",
+    "kcal": 0.3,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.02
+  },
+  {
+    "name": "Sable coco Henry s 42g",
+    "kcal": 443,
+    "protein": 7.62,
+    "carbs": 73.8,
+    "fat": 12.4,
+    "fiber": 2.38,
+    "salt": 0.899
+  },
+  {
+    "name": "Ger\u00f6stete Mandel Ohne Zucker",
+    "kcal": 15,
+    "protein": 0.5,
+    "carbs": 0,
+    "fat": 1.1,
+    "fiber": 0.3,
+    "salt": 0.15
+  },
+  {
+    "name": "A\u00efn Atlas 50cl",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.024
+  },
+  {
+    "name": "Oat Drink Barista Edition",
+    "kcal": 61,
+    "protein": 1.1,
+    "carbs": 7.1,
+    "fat": 3,
+    "fiber": 0.8,
+    "salt": 0.0975
+  },
+  {
+    "name": "Lait U.H.T entier",
+    "kcal": 58,
+    "protein": 3,
+    "carbs": 4.8,
+    "fat": 3,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "margarine la prairie 225g",
+    "kcal": 635,
+    "protein": 1,
+    "carbs": 0.7,
+    "fat": 70,
+    "fiber": 0,
+    "salt": 0.7
+  },
+  {
+    "name": "Waln\u00fcsse",
+    "kcal": 712,
+    "protein": 15.5,
+    "carbs": 3.7,
+    "fat": 69.1,
+    "fiber": 6.8,
+    "salt": 0.02
+  },
+  {
+    "name": "Biscuits croquants au coeur onctueux de Nutella\u00ae",
+    "kcal": 515,
+    "protein": 7.9,
+    "carbs": 64,
+    "fat": 24.8,
+    "fiber": null,
+    "salt": 0.559
+  },
+  {
+    "name": "Tartine croustillante Authentique",
+    "kcal": 336,
+    "protein": 9,
+    "carbs": 62,
+    "fat": 1.5,
+    "fiber": 19,
+    "salt": 1
+  },
+  {
+    "name": "Excellence Noir Intense 70% Cacao",
+    "kcal": 566,
+    "protein": 9.5,
+    "carbs": 34,
+    "fat": 41,
+    "fiber": null,
+    "salt": 0.1
+  },
+  {
+    "name": "Familia 200g",
+    "kcal": 532,
+    "protein": 0.2,
+    "carbs": 0.2,
+    "fat": 60,
+    "fiber": 5,
+    "salt": 0
+  },
+  {
+    "name": "Star vinaigre de table BLANC",
+    "kcal": 1,
+    "protein": 0,
+    "carbs": 0.15,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Nocciolata",
+    "kcal": 544,
+    "protein": 8.1,
+    "carbs": 54,
+    "fat": 32,
+    "fiber": 3.6,
+    "salt": 0.125
+  },
+  {
+    "name": "P\u00e2te \u00e0 tartiner noisettes et cacao",
+    "kcal": 551,
+    "protein": 6.7,
+    "carbs": 53,
+    "fat": 34,
+    "fiber": 3.3,
+    "salt": 0.1
+  },
+  {
+    "name": "Weetabix",
+    "kcal": 358,
+    "protein": 11.8,
+    "carbs": 68.4,
+    "fat": 2.11,
+    "fiber": 10,
+    "salt": 0.257
+  },
+  {
+    "name": "Lightly Sea Salted",
+    "kcal": 476,
+    "protein": 6.2,
+    "carbs": 49,
+    "fat": 27,
+    "fiber": 5.5,
+    "salt": 0.825
+  },
+  {
+    "name": "Dark chocolate",
+    "kcal": 607,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 50,
+    "fiber": 13,
+    "salt": 0.13
+  },
+  {
+    "name": "Eau Min\u00e9rale Naturelle",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.003
+  },
+  {
+    "name": "Filets de maquereau",
+    "kcal": 180,
+    "protein": 30.1,
+    "carbs": 0.6,
+    "fat": 8.5,
+    "fiber": null,
+    "salt": 0.5
+  },
+  {
+    "name": "Excellence Noir Puissant 85% Cacao",
+    "kcal": 584,
+    "protein": 12.5,
+    "carbs": 22,
+    "fat": 46,
+    "fiber": 0,
+    "salt": 0.02
+  },
+  {
+    "name": "Tartine Doux",
+    "kcal": 495,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 55,
+    "fiber": null,
+    "salt": 0.4
+  },
+  {
+    "name": "611251753912",
+    "kcal": 73,
+    "protein": 1.3,
+    "carbs": 8.7,
+    "fat": 3.3,
+    "fiber": 1.4,
+    "salt": 0.83
+  },
+  {
+    "name": "A\u00efn Soltane",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": null,
+    "salt": 0
+  },
+  {
+    "name": "Fourr\u00e9s Chocolat Noir",
+    "kcal": 481,
+    "protein": 7.6,
+    "carbs": 65,
+    "fat": 20,
+    "fiber": 5.3,
+    "salt": 0.49
+  },
+  {
+    "name": "El Baraka Confiture De Fraises 430 G",
+    "kcal": 256,
+    "protein": 0.5,
+    "carbs": 63,
+    "fat": 0.5,
+    "fiber": 0.5,
+    "salt": 0.02
+  },
+  {
+    "name": "Extra dark chocolate 74% cacao",
+    "kcal": 571,
+    "protein": 9.9,
+    "carbs": 32,
+    "fat": 42,
+    "fiber": 12.6,
+    "salt": 0.02
+  },
+  {
+    "name": "Eau de table",
+    "kcal": null,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "salt": 0.00625
+  }
+]
